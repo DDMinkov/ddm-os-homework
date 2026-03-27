@@ -1,5 +1,5 @@
 ubuntu@ubuntu:~$ cd ~/Documents
-ubuntu@ubuntu:~/Documents$ echo "Homework Contento" > task.txt
+ubuntu@ubuntu:~/Documents$ echo "Homework Contento" > text.txt
 ubuntu@ubuntu:~/Documents$ ls -l
 total 4
 -rw-rw-r-- 1 ubuntu ubuntu 18 Mar 27 16:06 text.txt
